@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989065126153",
+    "project_id": "clonogram-c155f",
+    "storage_bucket": "clonogram-c155f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989065126153:android:1b3763e080c5f7128fb3d8",
+        "android_client_info": {
+          "package_name": "com.clonogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989065126153-u81u9a0sptq29e1v8mlr110k8ag0gbql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZAs0PXCF_Ht6m7cJqafvbfp9l87rWIOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989065126153-u81u9a0sptq29e1v8mlr110k8ag0gbql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
